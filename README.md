@@ -1,6 +1,6 @@
 # Towards Decentralized Proof-of-Location
 
-This repository contains the source code of the proof-of-concept implementation of a decentralized proof-of-location protocol described in the Master's thesis "Towards Decentralized Proof-of-Location", authored by [Eduardo Brito](eduardo.ribas.brito@ut.ee) and supervised by [Ulrich Norbisrath](ulrich.norbisrath@ut.ee). 
+This repository contains the source code of the proof-of-concept implementation of a decentralized proof-of-location protocol described in the Master's thesis "Towards Decentralized Proof-of-Location", authored by [Eduardo Brito](mailto:eduardo.ribas.brito@ut.ee) and supervised by [Ulrich Norbisrath](mailto:ulrich.norbisrath@ut.ee). 
 
 ## Structure
 
